@@ -1,4 +1,4 @@
-function(nums,target){
+function TwoSum(nums,target){
     let storage={}
 
     for(let [index,num]of nums.entries()){
